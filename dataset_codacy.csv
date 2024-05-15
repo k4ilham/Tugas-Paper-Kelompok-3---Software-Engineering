@@ -1,4 +1,4 @@
-﻿Project Name,Grade,Issues,Complexicy,Duplication,Branch,Java,Swift,Json,Kotlin,Python,C,CPP,CSS,Markdown,Javascript,Shell,Dockerfile,Minor,Medium,Critical,Code Style,Security,Error Prnoe,Performance
+Project Name,Grade,Issues,Complexicy,Duplication,Branch,Java,Swift,Json,Kotlin,Python,C,CPP,CSS,Markdown,Javascript,Shell,Dockerfile,Minor,Medium,Critical,Code Style,Security,Error Prnoe,Performance
 pytorch / vision,A,7%,3%,31%,1,67,,,,1161,2,44,,131,,33,,882,506,50,1324,108,1,5
 opencv,A,4%,0%,28%,1,1570,596,,,5088,945,5836,,245,48,32,1,11843,1941,608,12625,550,907,233
 mmcv,A,6%,2%,32%,1,,,2,,192,,92,,151,,,9,349,68,29,384,16,16,30
